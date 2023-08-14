@@ -1,0 +1,15 @@
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/bin/Debug/net7.0/LearningInterfaces3
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/bin/Debug/net7.0/LearningInterfaces3.deps.json
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/bin/Debug/net7.0/LearningInterfaces3.runtimeconfig.json
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/bin/Debug/net7.0/LearningInterfaces3.dll
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/bin/Debug/net7.0/LearningInterfaces3.pdb
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.csproj.AssemblyReference.cache
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.AssemblyInfoInputs.cache
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.AssemblyInfo.cs
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.csproj.CoreCompileInputs.cache
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.dll
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/refint/LearningInterfaces3.dll
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.pdb
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/LearningInterfaces3.genruntimeconfig.cache
+/home/renato-lucas/Documents/projects/LearningInterfaces3/LearningInterfaces3/obj/Debug/net7.0/ref/LearningInterfaces3.dll
